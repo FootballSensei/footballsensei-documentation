@@ -28,7 +28,7 @@ To view our project's backlog and track our progress, please visit our [Trello b
 ---
 
 ## 🎥 Demo Video
-Coming soon...
+Link: https://www.youtube.com/watch?v=3WMrRaI0lkc
 
 ---
 
