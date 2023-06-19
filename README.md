@@ -33,5 +33,5 @@ Coming soon...
 ---
 
 ## 📚 UML Diagrams
-Coming soon...
+Link: https://pdf.ac/2inQfk
 
